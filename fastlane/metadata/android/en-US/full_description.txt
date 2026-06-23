@@ -1,0 +1,1 @@
+Etabli Doc is a client for a self-hosted Paperless-ngx instance. Browse, view and manage your documents. Data flows directly between your device and your own server; there is no central service and no third party in between.
